@@ -1,4 +1,4 @@
-file1 in branch1
+file1 in master
 updated
 updated
 updated
